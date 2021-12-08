@@ -32,4 +32,4 @@
 
 
 # Signed by AkarGang
-![](diabloakar (2).jpg)
+![](diabloakar.jpg)
