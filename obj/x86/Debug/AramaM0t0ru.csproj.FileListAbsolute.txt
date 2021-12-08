@@ -1,0 +1,10 @@
+C:\Users\TheWe\OneDrive\Belgeler\teneke1\AramaM0t0ru\obj\x86\Debug\AramaM0t0ru.csproj.AssemblyReference.cache
+C:\Users\TheWe\OneDrive\Belgeler\teneke1\AramaM0t0ru\obj\x86\Debug\AramaM0t0ru.csproj.SuggestedBindingRedirects.cache
+C:\Users\TheWe\OneDrive\Belgeler\teneke1\AramaM0t0ru\obj\x86\Debug\AramaM0t0ru.Form1.resources
+C:\Users\TheWe\OneDrive\Belgeler\teneke1\AramaM0t0ru\obj\x86\Debug\AramaM0t0ru.csproj.GenerateResource.cache
+C:\Users\TheWe\OneDrive\Belgeler\teneke1\AramaM0t0ru\obj\x86\Debug\AramaM0t0ru.csproj.CoreCompileInputs.cache
+C:\Users\TheWe\OneDrive\Belgeler\teneke1\AramaM0t0ru\bin\Debug\Arama Motoru.exe.config
+C:\Users\TheWe\OneDrive\Belgeler\teneke1\AramaM0t0ru\bin\Debug\Arama Motoru.exe
+C:\Users\TheWe\OneDrive\Belgeler\teneke1\AramaM0t0ru\bin\Debug\Arama Motoru.pdb
+C:\Users\TheWe\OneDrive\Belgeler\teneke1\AramaM0t0ru\obj\x86\Debug\Arama Motoru.exe
+C:\Users\TheWe\OneDrive\Belgeler\teneke1\AramaM0t0ru\obj\x86\Debug\Arama Motoru.pdb
